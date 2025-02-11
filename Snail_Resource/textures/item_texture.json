@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "snails",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "snail_spawn_egg": {
+      "textures": "textures/items/snail_spawn_egg"
+    }
+  }
+}

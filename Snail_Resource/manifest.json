@@ -1,0 +1,35 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Snails",
+		"description": "Adds snails to Minecraft bedrock.",
+		"uuid": "7e91ca6b-1738-4c4f-86c7-64630f05a3a4",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			16,
+			0
+		]
+	},
+	"metadata": {
+		"authors": [
+			"FinlayTheBerry"
+		]
+	},
+	"modules": [
+		{
+			"description": "Adds snails to Minecraft bedrock.",
+			"type": "resources",
+			"uuid": "190f8308-b256-4660-ac95-05bc4b375ef4",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
